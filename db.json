@@ -1,0 +1,146 @@
+{
+  "tipo_servico": [
+  {
+    "id": 1,
+    "servico": "Limpeza",
+    "imagem":"home" 
+   
+  },
+  {
+    "id": 2,
+    "servico": "Garçom",
+    "imagem":"bowtie" 
+  },
+  {
+    "id": 3,
+    "servico": "Cozinheiro",
+    "imagem":"restaurant" 
+  },
+  {
+  "id": 4,
+    "servico": "Reformas",
+    "imagem":"construct"
+  },
+  {
+  "id": 5,
+    "servico": "Mecânico",
+    "imagem":"car"
+  },
+  {
+  "id": 6,
+    "servico": "Fotografo",
+    "imagem":"camera"
+  },
+  {
+  "id": 7,
+    "servico": "Cabeleleiro",
+    "imagem":"cut"
+  },
+  {
+  "id": 8,
+    "servico": "Tecnico Informática",
+    "imagem":"laptop"
+  },
+  {
+  "id": 9,
+    "servico": "Chaveiro",
+    "imagem":"key"
+  },
+  {
+  "id": 10,
+    "servico": "Jardineiro",
+    "imagem":"leaf"
+  },
+  {
+  "id": 11,
+    "servico": "Enfermeiro",
+    "imagem":"medical"
+  }
+],
+  "perfil": [
+    {
+	  "id": 1,
+      "nome": "Marcus Gonçalves Roberto",
+      "email": "marcus.roberto@hotmail.com",
+      "telefone": "(31) 9 8875-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "100",
+	  "servicos": 1
+    },
+	{
+	  "id": 2,
+      "nome": "Romagno Diniz",
+      "email": "Romagno.Diniz@hotmail.com",
+      "telefone": "(31) 9 8845-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 1
+    },
+	{
+	  "id": 3,
+      "nome": "Julio Rangel",
+      "email": "Julio.Rangel@hotmail.com",
+      "telefone": "(31) 9 8325-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "99",
+	  "servicos": 3 
+    },
+	{
+	  "id": 4,
+      "nome": "Tulio Lima",
+      "email": "Romagno.Diniz@hotmail.com",
+      "telefone": "(31) 9 4345-8765",
+	  "num_estrelas": "354",
+	  "num_avaliacoes": "150",
+	  "servicos": 4
+    },
+	{
+	  "id": 5,
+      "nome": "Claudia Sacramento",
+      "email": "Claudia.Sacramento@hotmail.com",
+      "telefone": "(31) 9 8845-8543",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "96",
+	  "servicos": 4
+    },
+	{
+	  "id": 6,
+      "nome": "Thiago Diniz",
+      "email": "Thiago.Diniz@hotmail.com",
+      "telefone": "(31) 9 8845-8765",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "499",
+	  "servicos": 3
+    },
+	{
+	  "id": 7,
+      "nome": "Murilo Oliveira",
+      "email": "Murilo.Oliveira@hotmail.com",
+      "telefone": "(31) 9 8845-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 2
+    },
+	{
+	  "id": 8,
+      "nome": "Victor Pereira",
+      "email": "Victor.Pereira@hotmail.com",
+      "telefone": "(31) 9 8845-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 1
+    },
+	{
+	  "id": 9,
+      "nome": "JP",
+      "email": "JP.Aramuni@hotmail.com",
+      "telefone": "(31) 9 8845-8765",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "1000",
+	  "servicos": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
