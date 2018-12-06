@@ -62,7 +62,7 @@
 	  "id": 1,
       "nome": "Marcus Gonçalves Roberto",
       "email": "marcus.roberto@hotmail.com",
-      "telefone": "(31) 9 8875-8765",
+      "telefone": "8798875-8765",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "100",
 	  "servicos": 1
@@ -71,16 +71,16 @@
 	  "id": 2,
       "nome": "Romagno Diniz",
       "email": "Romagno.Diniz@hotmail.com",
-      "telefone": "(31) 9 8845-8765",
+      "telefone": "0898845-8765",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "110",
-	  "servicos": 1
+	  "servicos": 2
     },
 	{
 	  "id": 3,
       "nome": "Julio Rangel",
       "email": "Julio.Rangel@hotmail.com",
-      "telefone": "(31) 9 8325-8765",
+      "telefone": "7878325-8765",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "99",
 	  "servicos": 3 
@@ -89,7 +89,7 @@
 	  "id": 4,
       "nome": "Tulio Lima",
       "email": "Romagno.Diniz@hotmail.com",
-      "telefone": "(31) 9 4345-8765",
+      "telefone": "764345-8765",
 	  "num_estrelas": "354",
 	  "num_avaliacoes": "150",
 	  "servicos": 4
@@ -98,46 +98,136 @@
 	  "id": 5,
       "nome": "Claudia Sacramento",
       "email": "Claudia.Sacramento@hotmail.com",
-      "telefone": "(31) 9 8845-8543",
+      "telefone": "7778845-8543",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "96",
-	  "servicos": 4
+	  "servicos": 5
     },
 	{
 	  "id": 6,
       "nome": "Thiago Diniz",
       "email": "Thiago.Diniz@hotmail.com",
-      "telefone": "(31) 9 8845-8765",
+      "telefone": "9988845-8765",
 	  "num_estrelas": "1000",
 	  "num_avaliacoes": "499",
-	  "servicos": 3
+	  "servicos": 6
     },
 	{
 	  "id": 7,
       "nome": "Murilo Oliveira",
       "email": "Murilo.Oliveira@hotmail.com",
-      "telefone": "988942564",
+      "telefone": "9889428900",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "110",
-	  "servicos": 2
+	  "servicos": 7
     },
 	{
 	  "id": 8,
       "nome": "Victor Pereira",
       "email": "Victor.Pereira@hotmail.com",
-      "telefone": "(31) 9 8845-8765",
+      "telefone": "998845-8765",
 	  "num_estrelas": "454",
 	  "num_avaliacoes": "110",
-	  "servicos": 1
+	  "servicos": 8
     },
 	{
 	  "id": 9,
       "nome": "JP",
       "email": "JP.Aramuni@hotmail.com",
-      "telefone": "31 98040-2103",
+      "telefone": "98040-2103",
 	  "num_estrelas": "1000",
 	  "num_avaliacoes": "1000",
+	  "servicos": 9
+    },
+	{
+	  "id": 10,
+      "nome": "Vinicius Tolentino",
+      "email": "tolentinos@hotmail.com",
+      "telefone": "98429-9779",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "1000",
+	  "servicos": 10
+    }},
+	{
+	  "id": 11,
+      "nome": "Roger Diniz",
+      "email": "Roger.Diniz@hotmail.com",
+      "telefone": "0898845-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 11
+    },
+	{
+	  "id": 12,
+      "nome": "Patricia Rangel",
+      "email": "Julio.Rangel@hotmail.com",
+      "telefone": "7878325-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "99",
+	  "servicos": 1 
+    },
+	{
+	  "id": 13,
+      "nome": "Tulio Lima",
+      "email": "Romagno.Diniz@hotmail.com",
+      "telefone": "764345-8765",
+	  "num_estrelas": "354",
+	  "num_avaliacoes": "150",
 	  "servicos": 2
+    },
+	{
+	  "id": 14,
+      "nome": "Claudia Sacramento",
+      "email": "Claudia.Sacramento@hotmail.com",
+      "telefone": "7778845-8543",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "96",
+	  "servicos": 3
+    },
+	{
+	  "id": 15,
+      "nome": "Thiago Diniz",
+      "email": "Thiago.Diniz@hotmail.com",
+      "telefone": "9988845-8765",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "499",
+	  "servicos": 4
+    },
+	{
+	  "id": 16,
+      "nome": "Murilo Oliveira",
+      "email": "Murilo.Oliveira@hotmail.com",
+      "telefone": "9889428900",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 5
+    },
+	{
+	  "id": 17,
+      "nome": "Victor Pereira",
+      "email": "Victor.Pereira@hotmail.com",
+      "telefone": "998845-8765",
+	  "num_estrelas": "454",
+	  "num_avaliacoes": "110",
+	  "servicos": 6
+    },
+	{
+	  "id": 18,
+      "nome": "JP",
+      "email": "JP.Aramuni@hotmail.com",
+      "telefone": "98040-2103",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "1000",
+	  "servicos": 7
+    },
+	{
+	  "id": 19,
+      "nome": "Vinicius Tolentino",
+      "email": "tolentinos@hotmail.com",
+      "telefone": "98429-9779",
+	  "num_estrelas": "1000",
+	  "num_avaliacoes": "1000",
+	  "servicos": 8
     }
   ],
   "profile": {
